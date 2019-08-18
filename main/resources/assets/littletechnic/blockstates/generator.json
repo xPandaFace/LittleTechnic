@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=north": { "model": "littletechnic:block/generator" },
+        "facing=south": { "model": "littletechnic:block/generator", "y": 180 },
+        "facing=west":  { "model": "littletechnic:block/generator", "y": 270 },
+        "facing=east":  { "model": "littletechnic:block/generator", "y": 90 },
+        "facing=up":  { "model": "littletechnic:block/generator", "x": -90 },
+        "facing=down":  { "model": "littletechnic:block/generator", "x": 90 }
+    }
+}

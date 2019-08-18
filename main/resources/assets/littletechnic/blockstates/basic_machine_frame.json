@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "littletechnic:block/basic_machine_frame" }
+    }
+}

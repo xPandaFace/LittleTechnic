@@ -1,0 +1,16 @@
+{	
+	"_comment": "Creative_Tabs",
+	"itemGroup.little_technic": "Little Technic",
+	
+	"item.littletechnic.dirty_iron_dust": "Dirty Iron Dust",
+	
+	"block.littletechnic.basic_machine_frame": "Basic Machine Frame",
+	
+	"block.littletechnic.grinder": "Grinder",
+	"block.littletechnic.generator": "Generator",
+	
+	"item.littletechnic.little_wrench": "Little Wrench",
+	
+	"item.littletechnic.harderned_iron_ingot": "Harderned Iron"
+
+}

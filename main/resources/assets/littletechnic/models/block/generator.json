@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+    	"particle": "littletechnic:block/generator_front",
+        "up": "littletechnic:block/generator_top",
+        "down": "littletechnic:block/generator_top",
+        "east": "littletechnic:block/generator_side",
+        "west": "littletechnic:block/generator_side",
+        "north": "littletechnic:block/generator_front",
+        "south": "littletechnic:block/generator_side"
+    }
+}
